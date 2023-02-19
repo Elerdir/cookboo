@@ -1,6 +1,5 @@
 package ess.cz.server.common.exchange;
 
-import ess.cz.server.common.util.StatusCode;
 import lombok.*;
 
 @Getter

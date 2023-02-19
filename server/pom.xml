@@ -10,7 +10,7 @@
     </parent>
     <groupId>ess.cz</groupId>
     <artifactId>server</artifactId>
-    <version>23.1.1.001</version>
+    <version>23.1.2.001</version>
     <packaging>war</packaging>
     <name>server</name>
     <description>server</description>
@@ -80,12 +80,6 @@
             <groupId>org.mockito</groupId>
             <artifactId>mockito-junit-jupiter</artifactId>
             <version>5.1.1</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>ess.cz</groupId>
-            <artifactId>server</artifactId>
-            <version>23.1.1.001</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

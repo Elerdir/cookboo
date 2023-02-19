@@ -1,0 +1,8 @@
+POST http://localhost:9090/api/tag
+Content-Type: application/json
+
+{
+  "tagName": "Dezert"
+}
+
+###
